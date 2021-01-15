@@ -45,7 +45,8 @@
   .site-nav.list a:hover, .site-nav a:focus{color :var(--accent-color)}
   .site-nav.list .link.current{color: var(--accent-color)}
   
-  .hero{background :var(--background-color-dark) ;}
+  .hero{background :var(--background-color-dark) ;
+text-align: center;}
   
   .hero-title{
   color: #ffffff;
@@ -78,7 +79,8 @@
   line-height: 1,71;
   color: rgba(255, 255, 255, 0.6)
   }
-  .button{color: #ffffff; background-color: var(--accent-color)} 
+  .button{color: #ffffff; background-color: var(--accent-color);
+} 
   .button-portfolio{background-color: #F5F4FA; color: var(--titlo-text-color);}
   .button-portfolio:hover, .button-portfolio:focus{color: #FFFFFF; background-color: var(--accent-color);}
   .auth-nav a{color: var(--primery-text-color);
